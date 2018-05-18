@@ -7,17 +7,47 @@
 #### Excercises
 
 ```
-Albero Binario: binary tree and binary search tree.
+
+Nodo: default node.(?)
+
+SL02: Concatenated List usage.
+
+Albero Binario: binary tree and binary search tree.(?)
+
+Esercizio:Comparatore ad Alberi binari.(?)
+
+PrimoGUI: Basic GUI functionality.
+
+???: .
+
+ExpressionTree: Tree view of an expression.
+
+ElaborazioneDiEspressioni: self-explanatory.(?)
+
+ElaborazioneDiEspressioniSWING: self-explanatory.(?)
 
 EvalSWING: Expression evaluator with calculator GUI, missing variable name functionality.
 
-Nodo: default node.
+EvaluationSWING: same as before but works.
+
+EsercitazioneLettureDaFile: self-explanatory.(?)
+
+SL07: dictionary using file reading.
 
 SL04: Pile interface with AWT.
 
 SL04SWING: Pile interface using SWING.
 
-???: String sequence interface with AWT.
+DemoBottoneMVC: self-explanatory.
 
-SL02: Concatenated List usage.
+JavaFXApllicationFirst: Basic JavaFX application using the MVC.
+
+ConnectionLessTest: Basuc UDP implementation.
+
+ClientServerUDP: Basic UDP implementation.
+
+Rivelatiore: Test for working car tracking.
+
+pop3FXClient: Client di una mail pop3.(?)
+
 ```
